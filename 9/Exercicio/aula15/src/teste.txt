@@ -1,0 +1,5 @@
+abacate
+abelha
+a a a abacate
+a a abacate abelha
+b
